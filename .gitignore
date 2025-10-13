@@ -1,0 +1,60 @@
+# F1 Race Predictor - Git Ignore File
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# FastF1 Cache (can be large!)
+f1_cache/
+cache/
+
+# Data Files (optional - you can commit smaller datasets)
+*.csv
+*.db
+*.sqlite
+*.h5
+*.hdf5
+
+# Models (optional - can be large)
+# *.pkl
+# *.keras
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment Variables
+.env
+.env.local
