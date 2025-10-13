@@ -375,9 +375,9 @@ f1-race-predictor/
 
 **Your Name** - fardintonu@gmail.com
 
-**Project Link:** 
+**Project Link: https://github.com/fardinhossain007/f1-race-predictor** 
 
-**LinkedIn:** 
+**LinkedIn: https://www.linkedin.com/in/fardin-hossain-tanmoy** 
 
 ---
 
